@@ -1,6 +1,8 @@
 list1 = [1,2,2,3,4,2]
 m_list = ["kim", "zagger"]
 
+c_list = list()
+
 print(list1)
 print(list1[0]) # get first element
 print(list1[-1]) # get last element
