@@ -23,7 +23,7 @@ print(tup3.index("i"))
 print(tup3[2:8])
 
 
-del tup1
+del tup1 # delete tuple
 
 m_dict = {'name':'kim', 'age':23}
 
