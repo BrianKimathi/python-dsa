@@ -36,7 +36,7 @@ print(list1)
 list1.remove(2)
 print(list1)
 
-del list1[0]
+del list1[0] #delete first element
 print(list1)
 
 del list2
