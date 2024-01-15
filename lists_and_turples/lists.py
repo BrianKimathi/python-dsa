@@ -40,4 +40,4 @@ del list1[0]
 print(list1)
 
 del list2
-print(list2)
+print(list2) # error list2 not found
