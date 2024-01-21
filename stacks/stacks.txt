@@ -1,0 +1,5 @@
+Operations:
+Push: Used  to add elements to the stack.
+pop: Used to remove the top most element.
+peek or top: 
+isEmpty: 
